@@ -1,0 +1,16 @@
+INFO - ====== WebDriver manager ======
+INFO - Get LATEST chromedriver version for google-chrome
+INFO - Get LATEST chromedriver version for google-chrome
+INFO - Driver [C:\Users\tawer\.wdm\drivers\chromedriver\win64\121.0.6167.85\chromedriver-win32/chromedriver.exe] found in cache
+INFO - Scraped 69 links
+INFO - 1/5 webprod.cio.sc.gov_SCSolicitationWeb_contractSearch.do_solicitnumber_5400026512
+INFO - Got 1 document link(s)
+INFO - 2/5 webprod.cio.sc.gov_SCSolicitationWeb_contractSearch.do_solicitnumber_5400026494
+INFO - Got 1 document link(s)
+INFO - 3/5 webprod.cio.sc.gov_SCSolicitationWeb_contractSearch.do_solicitnumber_5400026493
+INFO - Got 1 document link(s)
+INFO - 4/5 webprod.cio.sc.gov_SCSolicitationWeb_contractSearch.do_solicitnumber_5400026487
+INFO - Got 1 document link(s)
+INFO - 5/5 webprod.cio.sc.gov_SCSolicitationWeb_contractSearch.do_solicitnumber_5400026482
+INFO - Got 2 document link(s)
+INFO - done :)
